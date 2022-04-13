@@ -2,6 +2,8 @@
 
 <h2>I'm Temidayo🤗</h2>
 
+<h3>Full Stack Developer + Full time Agriculturist</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
 <!--
