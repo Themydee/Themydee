@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Themydee/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=Themydee&title=Stars,Followers
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
