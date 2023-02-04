@@ -5,6 +5,9 @@
 <h3>SOFTWARE ENGINEER 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
+**🎧 My recently played**
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=	31eegutw25u4iz4jbxruuot6grjq&count=10)](https://open.spotify.com/user/	31eegutw25u4iz4jbxruuot6grjq)
 
 <!--
 **Themydee/Themydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
