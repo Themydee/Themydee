@@ -7,20 +7,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
 
-<!--
+
 **Themydee/Themydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...ESLUX-ECOMMERCE
+- 🌱 I’m currently learning ... Solidity
+- 👯 I’m planning on ... Starting AI/ML 
+- 🤔 I’m looking for help with ... Blockchain evelopment
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...07065080140
+- ⚡ Fun fact: ...I love Farming
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/Themydee/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 
