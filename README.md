@@ -2,7 +2,7 @@
 
 <h2>I'm Temidayo🤗</h2>
 
-<h3>SOFTWARE DEVELOPERR 😎</h3>
+<h3>SOFTWARE DEVELOPER 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...ESLUX-ECOMMERCE
 - 🌱 I’m currently learning ... Solidity
 - 👯 I’m planning on ... Starting AI/ML 
-- 🤔 I’m looking for help with ... Blockchain evelopment
+- 🤔 I’m looking for help with ... Blockchain development
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...07065080140
 - ⚡ Fun fact: ...I love Farming
@@ -36,10 +36,17 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+
+**🎡 Version Control Systems:**
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 **🚀 Databases:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
   
