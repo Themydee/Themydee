@@ -55,5 +55,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Themydee&show_icons=true&locale=en" alt="jbrit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Themydee&" alt="jbrit" /></p>
-
-![Alt](https://repobeats.axiom.co/api/embed/432ecca2cd15287da8bea86bae6f7682162427f6.svg "Repobeats analytics image")
