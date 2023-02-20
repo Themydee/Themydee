@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/Themydee/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themydee&langs_count=10&title_color=00ff99&text_color=ffffff&icon_color=00ff77&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 **⚡️ Languages:**
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
