@@ -6,16 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...ESLUX-ECOMMERCE
-- 🌱 I’m currently learning ... Solidity
-- 👯 I’m planning on ... Starting AI/ML 
-- 🤔 I’m looking for help with ... Blockchain development
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...07065080140
-- ⚡ Fun fact: ...I love Farming
-
 **🎧 My recently played**
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31eegutw25u4iz4jbxruuot6grjq&count=5)](https://open.spotify.com/user/31eegutw25u4iz4jbxruuot6grjq)
