@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **🎧 My recently played**
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31eegutw25u4iz4jbxruuot6grjq&count=10)](https://open.spotify.com/user/31eegutw25u4iz4jbxruuot6grjq)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31eegutw25u4iz4jbxruuot6grjq&count=5)](https://open.spotify.com/user/31eegutw25u4iz4jbxruuot6grjq)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/Themydee/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
