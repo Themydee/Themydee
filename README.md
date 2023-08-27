@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Themydee&show_icons=true&locale=en" alt="jbrit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Themydee&" alt="jbrit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Themydee" alt="Themydee" /></p>
