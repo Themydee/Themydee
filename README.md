@@ -2,7 +2,8 @@
 
 <h2>I'm Temidayo🤗</h2>
 
-<h3>FRONTEND ENGINEER 😎</h3>
+<h3>FULLSTACK WEB DEVELOPER😎</h3>
+<h5>I will soon integrate to mobile application watch out 😁😁</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
