@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<h2>I'm Temidayo🤗</h2>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Themydee/Themydee/master/name.svg" alt="TEMIDAYO AKANBI-BELLO" />
+</h1>
 
 <h3>FULLSTACK WEB DEVELOPER😎</h3>
 <h5>I will soon integrate to mobile application watch out 😁😁</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themydee&repo=github-readme-stats)](https://github.com/themydee/github-readme-stats)
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/themydee/github-profile-trophy)
