@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Themydee/Themydee/master/name.svg" alt="TEMIDAYO AKANBI-BELLO" />
-</h1>
 
 <h3>FULLSTACK WEB DEVELOPER😎</h3>
 <h5>I will soon integrate to mobile application watch out 😁😁</h5>
@@ -53,5 +50,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Themydee&show_icons=true&locale=en&layout=compact" alt="jbrit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Themydee&show_icons=true&locale=en" alt="jbrit" /></p>
+<!--START_SECTION:waka-->
+
+```txt
+Java         34 mins         ████████████▓░░░░░░░░░░░░   50.95 %
+Vue.js       16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+JavaScript   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+HTML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+```
+
+<!--END_SECTION:waka-->
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Themydee" alt="Themydee" /></p>
