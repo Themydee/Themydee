@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Themydee&repo=github-readme-stats)](https://github.com/Themydee/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Themydee)](https://github.com/Themydee/github-profile-trophy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themydee&repo=github-readme-stats)](https://github.com/themydee/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/themydee/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themydee&langs_count=10&title_color=00ff99&text_color=ffffff&icon_color=00ff77&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
