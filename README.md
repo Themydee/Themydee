@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themydee&repo=github-readme-stats)](https://github.com/themydee/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=themydee)](https://github.com/themydee/github-profile-trophy)
 <h3 align="left">Languages and Tools:</h3>
 
