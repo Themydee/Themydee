@@ -1,8 +1,4 @@
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Themydee/martonlederer/master/name.svg" alt="Themydee" />
-</h1>
-
 ### Hi there 👋
 
 
