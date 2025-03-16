@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Themydee" />
+  <img src="https://raw.githubusercontent.com/Themydee/martonlederer/master/name.svg" alt="Themydee" />
 </h1>
 
 ### Hi there 👋
