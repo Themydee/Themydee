@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 
-<h3>FULLSTACK WEB DEVELOPER😎</h3>
-<h5>I will soon integrate to mobile application watch out 😁😁</h5>
+<h3>MERN STACK DEVELOPER😎</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
