@@ -8,7 +8,7 @@
 
 - 🔨 **[TerraTrust](https://terratrust.brimble.app)** – A supply chain transparency system for agricultural farmers.
 - 🌊 **Lagos Ferry Transport App** – A MERN-stack based water transport system like Uber for ferries.
-- 🌾 LOoking for projects to contribute to at the moment
+- 🌾 Currently searching for job opportunities and projects to contribute to at the moment in the tech space
 - 📱 Learning Flutter development for future usage.
 - 🧠 **Improving my backend development skills** – Diving deeper into Node.js, Express, MongoDB, REST APIs, and server-side architecture.
 Stay tuned for updates or check out my pinned repos below! 💻
