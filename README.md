@@ -4,6 +4,16 @@
 
 <h3>MERN STACK DEVELOPER😎</h3>
 
+## 🚧 Currently Working On
+
+- 🔨 **[TerraTrust](https://terratrust.brimble.app)** – A supply chain transparency system for agricultural farmers.
+- 🌊 **Lagos Ferry Transport App** – A MERN-stack based water transport system like Uber for ferries.
+- 🌾 LOoking for projects to contribute to at the moment
+- 📱 Learning Flutter development for future usage.
+- 🧠 **Improving my backend development skills** – Diving deeper into Node.js, Express, MongoDB, REST APIs, and server-side architecture.
+Stay tuned for updates or check out my pinned repos below! 💻
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Themydee&label=Profile%20views&color=0e75b6&style=flat" alt="Themydee" /> </p>
 
