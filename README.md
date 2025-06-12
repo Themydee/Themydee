@@ -57,17 +57,7 @@ Stay tuned for updates or check out my pinned repos below! 💻
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Themydee&show_icons=true&locale=en&layout=compact" alt="jbrit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Themydee&show_icons=true&locale=en" alt="jbrit" /></p>
-<!--START_SECTION:waka-->
-
-```txt
-React        34 mins         ████████████▓░░░░░░░░░░░░   50.95 %
-Php          16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
-JavaScript   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
-HTML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-```
-
-<!--END_SECTION:waka-->
+![](https://github-contributor-stats.vercel.app/api?username=themydee&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Themydee" alt="Themydee" /></p>
