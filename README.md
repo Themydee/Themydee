@@ -57,6 +57,7 @@ Stay tuned for updates or check out my pinned repos below! 💻
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Themydee&show_icons=true&locale=en&layout=compact" alt="jbrit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Themydee&show_icons=true&locale=en" alt="jbrit" /></p>
+
 ![](https://github-contributor-stats.vercel.app/api?username=themydee&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true)
 
 
