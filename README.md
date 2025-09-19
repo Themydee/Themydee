@@ -23,7 +23,7 @@
 
 **🌱 Frameworks**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,laravel,vue,react,bootstrap,tailwind,materialui" />
+  <img src="https://skillicons.dev/icons?i=express,react,bootstrap,tailwind,materialui" />
 </p>
 
 **🚀 Databases**  
