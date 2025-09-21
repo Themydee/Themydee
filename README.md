@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-## MERN STACK DEVELOPER 😎
-
-## 🚧 Currently Working On
-- 📱 Learning Flutter development for future usage.
-- 🧠 **Improving my backend development skills** – Diving deeper into Node.js, Express, MongoDB, REST APIs, and server-side architecture.
+## FULLSTACK DEVELOPER 😎
 
 ---
 
